@@ -1,0 +1,13 @@
+
+CFEngineTemplate.tcl,428
+proc ::cftemplate::parse_classes::cftemplate::parse_classes16,432
+proc ::cftemplate::substitute::cftemplate::substitute38,1082
+proc ::cftemplate::define::cftemplate::define85,2229
+proc ::cftemplate::undefine::cftemplate::undefine88,2318
+proc ::cftemplate::addlist::cftemplate::addlist91,2409
+proc ::cftemplate::dellist::cftemplate::dellist94,2496
+proc ::cftemplate::edit_template::cftemplate::edit_template98,2573
+
+test.tcl,0
+
+pkgIndex.tcl,0
