@@ -46,7 +46,7 @@ proc ::cftemplate::substitute {text} {
 		return $vn
 	}
 	set v [regexp -expanded -all -inline {\$((\{[\w.]+\})|(\([\w.]+\)))} $text]
-	set l [llength v]
+	set l [llength $v]
 	set varlist [list]
 	set idx 0
 	# regexp returns 4 values for each match
